@@ -1,0 +1,5 @@
+print(type("cualquier texto"))
+print(type(5))
+print(type(5.5))
+print(type(3 + 2j))
+print(type(print('cualquier cosa 2')))
